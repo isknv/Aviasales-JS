@@ -1,0 +1,47 @@
+body {
+  background: url(/img/img.jpg);
+}
+
+.box {
+  border: solid 0px;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+}
+.country {
+  font-size: 25px;
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0);
+
+  font-family: Hind;
+
+}
+.country:hover {
+  color: rgba(44, 44, 44, 0.74);
+}
+
+.city {
+  font-size: 25px;
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0);
+
+  font-family: Hind;
+
+}
+.city:hover {
+  color: rgba(44, 44, 44, 0.801);
+}
+
+div {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.text {
+  border: solid 0px;
+  display: flex;
+  
+}
