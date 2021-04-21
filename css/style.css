@@ -1,5 +1,7 @@
 body {
-  background: url(/img/img.jpg);
+  /* background: url(/img/too.jpg); */
+  background-image: url(../img/too.jpg);
+  width: 100%;
 }
 
 .box {
